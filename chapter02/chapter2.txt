@@ -1,5 +1,5 @@
-﻿Chapter2
+﻿Chapter2 Python
 
-Section 1: introduce to artificial intelligence
-Section 2: introduce to medical artificial intelligence
+Section 1: Introduce to python
+Section 2: Python programming
 
