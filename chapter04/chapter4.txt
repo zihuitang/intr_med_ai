@@ -1,5 +1,1 @@
-﻿Chapter4
-
-Section 1: introduce to artificial intelligence
-Section 2: introduce to medical artificial intelligence
-
+﻿Chapter4 data analysis for medical AI

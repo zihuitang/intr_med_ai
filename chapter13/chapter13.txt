@@ -1,5 +1,1 @@
-﻿Chapter13
-
-Section 1: introduce to artificial intelligence
-Section 2: introduce to medical artificial intelligence
-
+﻿Chapter13 medical intelligent decision making system
