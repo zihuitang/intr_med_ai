@@ -1,0 +1,7 @@
+sid,eid,rel_name,type
+d1,d2,diff,differentiation
+d1,d3,diff,differentiation
+d2,d1,diff,differentiation
+d2,d3,diff,differentiation
+d3,d1,diff,differentiation
+d3,d2,diff,differentiation
